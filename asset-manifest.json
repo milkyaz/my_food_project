@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my_food_project/static/css/main.cbd6c27a.css",
+    "main.js": "/my_food_project/static/js/main.112be708.js",
+    "static/media/food_bg.jpeg": "/my_food_project/static/media/food_bg.fa756e89c884c1c154ed.jpeg",
+    "index.html": "/my_food_project/index.html",
+    "main.cbd6c27a.css.map": "/my_food_project/static/css/main.cbd6c27a.css.map",
+    "main.112be708.js.map": "/my_food_project/static/js/main.112be708.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbd6c27a.css",
+    "static/js/main.112be708.js"
+  ]
+}
